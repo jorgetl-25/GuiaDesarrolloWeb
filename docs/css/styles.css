@@ -1,0 +1,30 @@
+body{
+    background-color: #ffcc00;
+}
+
+.titulo{
+    text-align: center;
+}
+
+section{
+    background-color: #e6e6e6;
+    border-radius: 2rem;
+    
+
+}
+
+.secciones{
+    margin: 2rem ;
+    padding: 2rem;
+    border: 0.2rem solid #595959;
+
+   
+}
+
+.iconos{
+     background-color: white;
+}
+
+.iconos-img{
+    height: 0em;
+}
